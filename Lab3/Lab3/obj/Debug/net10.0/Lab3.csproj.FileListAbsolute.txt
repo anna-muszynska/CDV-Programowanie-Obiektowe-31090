@@ -1,0 +1,15 @@
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/bin/Debug/net10.0/Lab3
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/bin/Debug/net10.0/Lab3.deps.json
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/bin/Debug/net10.0/Lab3.runtimeconfig.json
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/bin/Debug/net10.0/Lab3.dll
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/bin/Debug/net10.0/Lab3.pdb
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/obj/Debug/net10.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/obj/Debug/net10.0/Lab3.AssemblyInfoInputs.cache
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/obj/Debug/net10.0/Lab3.AssemblyInfo.cs
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/obj/Debug/net10.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/obj/Debug/net10.0/Lab3.dll
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/obj/Debug/net10.0/refint/Lab3.dll
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/obj/Debug/net10.0/Lab3.pdb
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/obj/Debug/net10.0/Lab3.genruntimeconfig.cache
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/obj/Debug/net10.0/ref/Lab3.dll
+/Users/marcelinabogal/RiderProjects/Lab3/Lab3/bin/Debug/net10.0/cars.json
